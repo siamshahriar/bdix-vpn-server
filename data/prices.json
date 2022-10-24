@@ -1,0 +1,578 @@
+[
+  {
+    "_id": "11001",
+    "category_id": "01",
+    "name": "cPanel Solo VPS",
+    "speed": {
+      "rawInternet": 10,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "A Linux VPS is a server that is specifically intended to run Linux software; however, you can still choose the different operating systems that you would like to use.Linux VPS or Linux Virtual Server is a server with high-speed internet with a Linux operating system and different distributions such as CentOS, Debian, and Ubuntu; by using Root Access, a user can manage the Linux virtual server in the data center independently.",
+    "realip": "NO",
+    "price": 1000,
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/premium-vector/vps-hosting-internet-service-using-man-vector-vps-hosting-connected-user-boy-with-laptop-character-guy-sitting-data-center-server-computer-technology-flat-cartoon-illustration_87720-6001.jpg?w=2000"
+  },
+  {
+    "_id": "11002",
+    "category_id": "01",
+    "name": "cPanel Small VPS",
+    "speed": {
+      "rawInternet": 12,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "A Linux VPS is a server that is specifically intended to run Linux software; however, you can still choose the different operating systems that you would like to use.Linux VPS or Linux Virtual Server is a server with high-speed internet with a Linux operating system and different distributions such as CentOS, Debian, and Ubuntu; by using Root Access, a user can manage the Linux virtual server in the data center independently.",
+    "realip": "NO",
+    "price": 1200,
+    "connection": "cat5e",
+    "img": "https://cdn.dribbble.com/users/1314508/screenshots/6169923/media/4b3d816a0606ba63039fcfd0ded0414c.jpg?compress=1&resize=400x300"
+  },
+  {
+    "_id": "11003",
+    "category_id": "01",
+    "name": "cPanel Large VPS",
+    "speed": {
+      "rawInternet": 15,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "A Linux VPS is a server that is specifically intended to run Linux software; however, you can still choose the different operating systems that you would like to use.Linux VPS or Linux Virtual Server is a server with high-speed internet with a Linux operating system and different distributions such as CentOS, Debian, and Ubuntu; by using Root Access, a user can manage the Linux virtual server in the data center independently.",
+    "realip": "NO",
+    "price": 1500,
+    "connection": "cat5e",
+    "img": "https://i0.wp.com/designedgetechnologies.com/wp-content/uploads/2021/12/linuxhosting.png?w=735&ssl=1"
+  },
+  {
+    "_id": "11004",
+    "category_id": "01",
+    "name": "VPS 2022v1",
+    "speed": {
+      "rawInternet": 18,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "A Linux VPS is a server that is specifically intended to run Linux software; however, you can still choose the different operating systems that you would like to use.Linux VPS or Linux Virtual Server is a server with high-speed internet with a Linux operating system and different distributions such as CentOS, Debian, and Ubuntu; by using Root Access, a user can manage the Linux virtual server in the data center independently.",
+    "realip": "NO",
+    "price": 1800,
+    "connection": "cat5e",
+    "img": "https://www.netspaceindia.com/wp-content/uploads/2020/12/linux-vps-server.png.webp"
+  },
+  {
+    "_id": "11005",
+    "category_id": "01",
+    "name": "VPS 2022v2",
+    "speed": {
+      "rawInternet": 20,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "A Linux VPS is a server that is specifically intended to run Linux software; however, you can still choose the different operating systems that you would like to use.Linux VPS or Linux Virtual Server is a server with high-speed internet with a Linux operating system and different distributions such as CentOS, Debian, and Ubuntu; by using Root Access, a user can manage the Linux virtual server in the data center independently.",
+    "realip": "NO",
+    "price": 2000,
+    "connection": "cat5e",
+    "img": "https://www.netspaceindia.com/wp-content/uploads/2021/08/cheapest-linux-vps.png"
+  },
+  {
+    "_id": "11006",
+    "category_id": "01",
+    "name": "VPS 2022v3",
+    "speed": {
+      "rawInternet": 22,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "A Linux VPS is a server that is specifically intended to run Linux software; however, you can still choose the different operating systems that you would like to use.Linux VPS or Linux Virtual Server is a server with high-speed internet with a Linux operating system and different distributions such as CentOS, Debian, and Ubuntu; by using Root Access, a user can manage the Linux virtual server in the data center independently.",
+    "realip": "NO",
+    "price": 2400,
+    "connection": "cat5e",
+    "img": "https://www.interserver.net/vps/includes/images/cp.png"
+  },
+  {
+    "_id": "12001",
+    "category_id": "02",
+    "name": "Win VPS 2022v1",
+    "speed": {
+      "rawInternet": 10,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "Windows VPS hosting plans are easier to use by people who have never used Linux or by people who don't know the Linux operating system. That may have been the case back in the late 1990s but these days if you know how to point and click and can fill out an online form you can use a Linux VPS hosting plan. They key thing to look for when selecting a plan is the type of control panel that is offered if any. The control panel is the interface that does all the behind the scenes work for you allowing you to just point and click to set up new websites and control your Virtual server.",
+    "realip": "NO",
+    "price": 2000,
+    "connection": "cat5e",
+    "img": "https://www.ewebguru.net/img/linux-vps-safe.png"
+  },
+  {
+    "_id": "12002",
+    "category_id": "02",
+    "name": "Win VPS 2022v2",
+    "speed": {
+      "rawInternet": 12,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "Windows VPS hosting plans are easier to use by people who have never used Linux or by people who don't know the Linux operating system. That may have been the case back in the late 1990s but these days if you know how to point and click and can fill out an online form you can use a Linux VPS hosting plan. They key thing to look for when selecting a plan is the type of control panel that is offered if any. The control panel is the interface that does all the behind the scenes work for you allowing you to just point and click to set up new websites and control your Virtual server.",
+    "price": 2400,
+    "realip": "NO",
+    "connection": "cat5e",
+    "img": "https://trywebhosting.com/wp-content/uploads/2022/09/626.jpg"
+  },
+  {
+    "_id": "12003",
+    "category_id": "02",
+    "name": "Win VPS 2022v3",
+    "speed": {
+      "rawInternet": 15,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "Windows VPS hosting plans are easier to use by people who have never used Linux or by people who don't know the Linux operating system. That may have been the case back in the late 1990s but these days if you know how to point and click and can fill out an online form you can use a Linux VPS hosting plan. They key thing to look for when selecting a plan is the type of control panel that is offered if any. The control panel is the interface that does all the behind the scenes work for you allowing you to just point and click to set up new websites and control your Virtual server.",
+    "price": 2700,
+    "realip": "NO",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/gradient-website-hosting-illustration_23-2149247164.jpg?w=2000"
+  },
+  {
+    "_id": "12004",
+    "category_id": "02",
+    "name": "Win VPS 2022v4",
+    "speed": {
+      "rawInternet": 18,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "Windows VPS hosting plans are easier to use by people who have never used Linux or by people who don't know the Linux operating system. That may have been the case back in the late 1990s but these days if you know how to point and click and can fill out an online form you can use a Linux VPS hosting plan. They key thing to look for when selecting a plan is the type of control panel that is offered if any. The control panel is the interface that does all the behind the scenes work for you allowing you to just point and click to set up new websites and control your Virtual server.",
+    "price": 3000,
+    "realip": "NO",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/gradient-website-hosting-illustration_23-2149250983.jpg?w=2000"
+  },
+  {
+    "_id": "12005",
+    "category_id": "02",
+    "name": "Win VPS 2022v5",
+    "speed": {
+      "rawInternet": 20,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "Windows VPS hosting plans are easier to use by people who have never used Linux or by people who don't know the Linux operating system. That may have been the case back in the late 1990s but these days if you know how to point and click and can fill out an online form you can use a Linux VPS hosting plan. They key thing to look for when selecting a plan is the type of control panel that is offered if any. The control panel is the interface that does all the behind the scenes work for you allowing you to just point and click to set up new websites and control your Virtual server.",
+    "price": 3300,
+    "realip": "NO",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/computer-monitor-virtual-cloud-documents-with-information-isometric-vector-icons_107791-4547.jpg?w=900&t=st=1666638556~exp=1666639156~hmac=bdc50ca0905c5f2fbae725744b9958809509868270ed89b68b828a1546684ed4"
+  },
+  {
+    "_id": "12006",
+    "category_id": "02",
+    "name": "Win VPS 2022v6",
+    "speed": {
+      "rawInternet": 22,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "Windows VPS hosting plans are easier to use by people who have never used Linux or by people who don't know the Linux operating system. That may have been the case back in the late 1990s but these days if you know how to point and click and can fill out an online form you can use a Linux VPS hosting plan. They key thing to look for when selecting a plan is the type of control panel that is offered if any. The control panel is the interface that does all the behind the scenes work for you allowing you to just point and click to set up new websites and control your Virtual server.",
+    "price": 3500,
+    "realip": "NO",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-website-hosting-illustration_23-2149233375.jpg?w=826&t=st=1666638598~exp=1666639198~hmac=a3b5f93e468546d0bb39eb155a363ac6b9e4bf8f5f44d6250b3b8aa83eb30df4"
+  },
+  {
+    "_id": "13001",
+    "category_id": "03",
+    "name": "VPS-CX11",
+    "speed": {
+      "rawInternet": 10,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "With unmanaged VPS hosting, you take care of your own server maintenance. Your hosting provider will only take care of the physical server and of making sure the resources you paid for are always available to you. Choose unmanaged VPS hosting only if you have a bigger business with an in-house IT team to manage your server and OS.",
+    "price": 3000,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/premium-vector/server-control-panel-hosting-software-vector-illustration_116137-337.jpg?w=826"
+  },
+  {
+    "_id": "13002",
+    "category_id": "03",
+    "name": "VPS-CX21",
+    "speed": {
+      "rawInternet": 12,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "With unmanaged VPS hosting, you take care of your own server maintenance. Your hosting provider will only take care of the physical server and of making sure the resources you paid for are always available to you. Choose unmanaged VPS hosting only if you have a bigger business with an in-house IT team to manage your server and OS.",
+    "price": 3300,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/secure-server-concept-illustration_114360-522.jpg?w=1380&t=st=1666639048~exp=1666639648~hmac=507ef60a544e30fb100256f30cf9356b2e6256c2e665bb38f85eadf44a6f8ca3"
+  },
+  {
+    "_id": "13003",
+    "category_id": "03",
+    "name": "VPS-CX31",
+    "speed": {
+      "rawInternet": 15,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "With unmanaged VPS hosting, you take care of your own server maintenance. Your hosting provider will only take care of the physical server and of making sure the resources you paid for are always available to you. Choose unmanaged VPS hosting only if you have a bigger business with an in-house IT team to manage your server and OS.",
+    "price": 3600,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/server-room-artificial-intelligence-big-data-processing-online-banking-operations_39422-813.jpg?w=1380&t=st=1666639064~exp=1666639664~hmac=7978f08c9b6a8da371012e19e05a74a0a9f89240d0446d0da156bea4f68d8bf2"
+  },
+  {
+    "_id": "13004",
+    "category_id": "03",
+    "name": "VPS-CX41",
+    "speed": {
+      "rawInternet": 18,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "With unmanaged VPS hosting, you take care of your own server maintenance. Your hosting provider will only take care of the physical server and of making sure the resources you paid for are always available to you. Choose unmanaged VPS hosting only if you have a bigger business with an in-house IT team to manage your server and OS.",
+    "price": 3900,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/system-administrator-job-set_74855-1480.jpg?w=1380&t=st=1666639084~exp=1666639684~hmac=73161f7d2877cccd63c72cebaea7fcab98fec4b8b3e3e96979510ffa64972d45"
+  },
+  {
+    "_id": "13005",
+    "category_id": "03",
+    "name": "VPS-CX51",
+    "speed": {
+      "rawInternet": 20,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "With unmanaged VPS hosting, you take care of your own server maintenance. Your hosting provider will only take care of the physical server and of making sure the resources you paid for are always available to you. Choose unmanaged VPS hosting only if you have a bigger business with an in-house IT team to manage your server and OS.",
+    "price": 4200,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/premium-vector/cloud-interface-that-shows-data-uploading-internet_49459-578.jpg?w=1380"
+  },
+  {
+    "_id": "13006",
+    "category_id": "03",
+    "name": "VPS-CX61",
+    "speed": {
+      "rawInternet": 22,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "With unmanaged VPS hosting, you take care of your own server maintenance. Your hosting provider will only take care of the physical server and of making sure the resources you paid for are always available to you. Choose unmanaged VPS hosting only if you have a bigger business with an in-house IT team to manage your server and OS.",
+    "price": 4500,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/isometric-hosting-concept_23-2147967977.jpg?w=826&t=st=1666639122~exp=1666639722~hmac=cfe2b6037cb36b6fd56305542f15281e34d408162c8824f3f8eb583beaad13cb"
+  },
+  {
+    "_id": "14001",
+    "category_id": "04",
+    "name": "MANAGED VPS-CPX11",
+    "speed": {
+      "rawInternet": 10,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "Managed VPS platforms are the perfect choice for startups and SMBs that dont have an in-house IT team. Reliable hosting providers already have the workforce — experts in the field that pass through rigorous training processes. In the standard scenario, your host supplies the physical server, sets it up with a default OS and control panel, and hands all control over to you.  But what about all the software installations, updates, technical questions? There are just so many things that can go wrong. Managed virtual private server clients have nothing to worry about, though — trained professionals handle all these delicate operations for them.",
+    "price": 4000,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/neurological-chip-implants-technologies-isometric-illustration_1284-57510.jpg?w=826&t=st=1666640212~exp=1666640812~hmac=4cd09239bf49f53907c7ca8b4290950cc34d083e87c598f4b8d68967ff50e2f6"
+  },
+  {
+    "_id": "14002",
+    "category_id": "04",
+    "name": "MANAGED VPS-CPX21",
+    "speed": {
+      "rawInternet": 12,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "Managed VPS platforms are the perfect choice for startups and SMBs that dont have an in-house IT team. Reliable hosting providers already have the workforce — experts in the field that pass through rigorous training processes. In the standard scenario, your host supplies the physical server, sets it up with a default OS and control panel, and hands all control over to you.  But what about all the software installations, updates, technical questions? There are just so many things that can go wrong. Managed virtual private server clients have nothing to worry about, though — trained professionals handle all these delicate operations for them.",
+    "price": 4200,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/hosting-processor-emergency-memory-store-domain-cluster-emergency-backup-upload-files-technical-room-equipment-accessible-datacenter-vector-isolated-concept-metaphor-illustration_335657-4305.jpg?w=826&t=st=1666640232~exp=1666640832~hmac=cb7a25090f10b6cedf49b8299adb518dfb8b59d4b334365db1794e081ee56ea4"
+  },
+  {
+    "_id": "14003",
+    "category_id": "04",
+    "name": "MANAGED VPS-CPX31",
+    "speed": {
+      "rawInternet": 15,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "Managed VPS platforms are the perfect choice for startups and SMBs that dont have an in-house IT team. Reliable hosting providers already have the workforce — experts in the field that pass through rigorous training processes. In the standard scenario, your host supplies the physical server, sets it up with a default OS and control panel, and hands all control over to you.  But what about all the software installations, updates, technical questions? There are just so many things that can go wrong. Managed virtual private server clients have nothing to worry about, though — trained professionals handle all these delicate operations for them.",
+    "price": 4500,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/server-room-big-data-processing-center-database-computer-digital-technology_39422-510.jpg?w=1380&t=st=1666640247~exp=1666640847~hmac=a6780d6f39a4d37f465c0f0429072a85fbc7dbedb22b4d06093c09d4b6f01376"
+  },
+  {
+    "_id": "14004",
+    "category_id": "04",
+    "name": "MANAGED VPS-CPX41",
+    "speed": {
+      "rawInternet": 18,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "Managed VPS platforms are the perfect choice for startups and SMBs that dont have an in-house IT team. Reliable hosting providers already have the workforce — experts in the field that pass through rigorous training processes. In the standard scenario, your host supplies the physical server, sets it up with a default OS and control panel, and hands all control over to you.  But what about all the software installations, updates, technical questions? There are just so many things that can go wrong. Managed virtual private server clients have nothing to worry about, though — trained professionals handle all these delicate operations for them.",
+    "price": 4700,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/datacenter-server-cloud-computing-isometric-icons-set-with-isolated-images_1284-15937.jpg?w=826&t=st=1666640260~exp=1666640860~hmac=71b881f49c9911fb325d89b31cfddd3cce840ee17455b83462527880a5fb4b34"
+  },
+  {
+    "_id": "14005",
+    "category_id": "04",
+    "name": "MANAGED VPS-CPX51",
+    "speed": {
+      "rawInternet": 20,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "Managed VPS platforms are the perfect choice for startups and SMBs that dont have an in-house IT team. Reliable hosting providers already have the workforce — experts in the field that pass through rigorous training processes. In the standard scenario, your host supplies the physical server, sets it up with a default OS and control panel, and hands all control over to you.  But what about all the software installations, updates, technical questions? There are just so many things that can go wrong. Managed virtual private server clients have nothing to worry about, though — trained professionals handle all these delicate operations for them.",
+    "price": 5000,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/system-administrators-sysadmins-are-servicing-server-racks-system-administration-upkeeping-configuration-computer-systems-networks-concept-pinkish-coral-blue-palette-vector-illustration_335657-1642.jpg?w=1380&t=st=1666640276~exp=1666640876~hmac=66b398ee9706ddce0b3f5b80ed962dd3fc185db1dc4878618488090585288bf4"
+  },
+  {
+    "_id": "14006",
+    "category_id": "04",
+    "name": "MANAGED VPS-CPX61",
+    "speed": {
+      "rawInternet": 22,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "Managed VPS platforms are the perfect choice for startups and SMBs that dont have an in-house IT team. Reliable hosting providers already have the workforce — experts in the field that pass through rigorous training processes. In the standard scenario, your host supplies the physical server, sets it up with a default OS and control panel, and hands all control over to you.  But what about all the software installations, updates, technical questions? There are just so many things that can go wrong. Managed virtual private server clients have nothing to worry about, though — trained professionals handle all these delicate operations for them.",
+    "price": 5200,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/data-base-design_24877-49308.jpg?w=826&t=st=1666640292~exp=1666640892~hmac=2206354014d9ea8318be00fe5c2145a439466a7b939ef5f5d05d277148503dcc"
+  },
+  {
+    "_id": "15001",
+    "category_id": "05",
+    "name": "MINOR",
+    "speed": {
+      "rawInternet": 8,
+      "bdix": 50,
+      "facebook": 50,
+      "youtube": 50
+    },
+    "description": "Bangladesh has stepped down further behind in terms of mobile internet speed, ranking 135th out of 137 countries. The country is only ahead of Afghanistan and Venezuela in the list, according to the June report of Ookla, a global platform that works with the speed and comparative picture of the internet. Ookla publishes a report every month, which shows a comparative picture of the speed of mobile and fixed (broadband) internet in different countries.",
+    "price": 5000,
+    "realip": "NO",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/flat-wifi-concept_23-2148177486.jpg?w=826&t=st=1666641230~exp=1666641830~hmac=8da5217ae7d15ce4191a7f43d3d42ea02ccf46fd3558e71a3626b3136d0efa1f"
+  },
+  {
+    "_id": "15002",
+    "category_id": "05",
+    "name": "JUNIOR",
+    "speed": {
+      "rawInternet": 10,
+      "bdix": 60,
+      "facebook": 60,
+      "youtube": 60
+    },
+    "description": "Bangladesh has stepped down further behind in terms of mobile internet speed, ranking 135th out of 137 countries. The country is only ahead of Afghanistan and Venezuela in the list, according to the June report of Ookla, a global platform that works with the speed and comparative picture of the internet. Ookla publishes a report every month, which shows a comparative picture of the speed of mobile and fixed (broadband) internet in different countries.",
+    "price": 5400,
+    "realip": "NO",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/premium-vector/wifi-router-wireless-internet-connection-icon_48369-2505.jpg?w=826"
+  },
+  {
+    "_id": "15003",
+    "category_id": "05",
+    "name": "LEARNER",
+    "speed": {
+      "rawInternet": 15,
+      "bdix": 70,
+      "facebook": 70,
+      "youtube": 70
+    },
+    "description": "Bangladesh has stepped down further behind in terms of mobile internet speed, ranking 135th out of 137 countries. The country is only ahead of Afghanistan and Venezuela in the list, according to the June report of Ookla, a global platform that works with the speed and comparative picture of the internet. Ookla publishes a report every month, which shows a comparative picture of the speed of mobile and fixed (broadband) internet in different countries.",
+    "price": 5700,
+    "realip": "NO",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/flat-wifi-concept_23-2148177486.jpg?w=826&t=st=1666641230~exp=1666641830~hmac=8da5217ae7d15ce4191a7f43d3d42ea02ccf46fd3558e71a3626b3136d0efa1f"
+  },
+  {
+    "_id": "15004",
+    "category_id": "05",
+    "name": "BASIC",
+    "speed": {
+      "rawInternet": 20,
+      "bdix": 80,
+      "facebook": 80,
+      "youtube": 80
+    },
+    "description": "Bangladesh has stepped down further behind in terms of mobile internet speed, ranking 135th out of 137 countries. The country is only ahead of Afghanistan and Venezuela in the list, according to the June report of Ookla, a global platform that works with the speed and comparative picture of the internet. Ookla publishes a report every month, which shows a comparative picture of the speed of mobile and fixed (broadband) internet in different countries.",
+    "price": 6000,
+    "realip": "NO",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/premium-vector/wifi-router-wireless-internet-connection-icon_48369-2505.jpg?w=826"
+  },
+  {
+    "_id": "15005",
+    "category_id": "05",
+    "name": "DOMINANT",
+    "speed": {
+      "rawInternet": 25,
+      "bdix": 90,
+      "facebook": 90,
+      "youtube": 90
+    },
+    "description": "Bangladesh has stepped down further behind in terms of mobile internet speed, ranking 135th out of 137 countries. The country is only ahead of Afghanistan and Venezuela in the list, according to the June report of Ookla, a global platform that works with the speed and comparative picture of the internet. Ookla publishes a report every month, which shows a comparative picture of the speed of mobile and fixed (broadband) internet in different countries.",
+    "price": 6200,
+    "realip": "NO",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/public-wi-fi-hotspot-wireless-technology-free-signal-zone-web-connection-people-surfing-internet-using-portable-gadgets-smartphone-laptop_335657-3604.jpg?w=826&t=st=1666641295~exp=1666641895~hmac=bc4a270d00521883e759365db097bae8aa3c25c2c7de34591a4d81a8023673a2"
+  },
+  {
+    "_id": "15006",
+    "category_id": "05",
+    "name": "ADVANCE",
+    "speed": {
+      "rawInternet": 30,
+      "bdix": 100,
+      "facebook": 100,
+      "youtube": 100
+    },
+    "description": "Bangladesh has stepped down further behind in terms of mobile internet speed, ranking 135th out of 137 countries. The country is only ahead of Afghanistan and Venezuela in the list, according to the June report of Ookla, a global platform that works with the speed and comparative picture of the internet. Ookla publishes a report every month, which shows a comparative picture of the speed of mobile and fixed (broadband) internet in different countries.",
+    "price": 6500,
+    "realip": "NO",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/premium-vector/green-background-with-wifi-symbol_23-2147625318.jpg?w=826"
+  },
+  {
+    "_id": "16001",
+    "category_id": "06",
+    "name": "Bijoyee",
+    "speed": {
+      "rawInternet": 25,
+      "bdix": 100,
+      "facebook": 100,
+      "youtube": 100
+    },
+    "description": "The maximum price of 5 Mbps broadband internet is set at Tk 500, 10 Mbps at Tk 700 to 800, and 20 Mbps at Tk 1100 to 1200. Beyond the city, broadband internet has now reached the union level as well as the villages. Broadband internet subscribers are currently around one crore in the country. The number of subscribers is 17 % of the total internet users in the country. But these customers use 58 % of the country’s total bandwidth.",
+    "price": 6000,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/internet-day-concept-illustration_114360-5303.jpg?w=826&t=st=1666643346~exp=1666643946~hmac=ba8e69b630d3edf2a3542d8c1b9c9c4bc547b839f579763d9f9feba2a5696042"
+  },
+  {
+    "_id": "16002",
+    "category_id": "06",
+    "name": "BONIK",
+    "speed": {
+      "rawInternet": 15,
+      "bdix": 100,
+      "facebook": 100,
+      "youtube": 100
+    },
+    "description": "The maximum price of 5 Mbps broadband internet is set at Tk 500, 10 Mbps at Tk 700 to 800, and 20 Mbps at Tk 1100 to 1200. Beyond the city, broadband internet has now reached the union level as well as the villages. Broadband internet subscribers are currently around one crore in the country. The number of subscribers is 17 % of the total internet users in the country. But these customers use 58 % of the country’s total bandwidth.",
+    "price": 6300,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/flat-people-using-wireless-network_52683-13038.jpg?w=826&t=st=1666643363~exp=1666643963~hmac=399d45d722b16f66a27518cb56b7f6a23eb1a8e4ae5c55757cc6801c045dead8"
+  },
+  {
+    "_id": "16003",
+    "category_id": "06",
+    "name": "Joddha",
+    "speed": {
+      "rawInternet": 25,
+      "bdix": 100,
+      "facebook": 100,
+      "youtube": 100
+    },
+    "description": "The maximum price of 5 Mbps broadband internet is set at Tk 500, 10 Mbps at Tk 700 to 800, and 20 Mbps at Tk 1100 to 1200. Beyond the city, broadband internet has now reached the union level as well as the villages. Broadband internet subscribers are currently around one crore in the country. The number of subscribers is 17 % of the total internet users in the country. But these customers use 58 % of the country’s total bandwidth.",
+    "price": 6600,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/social-tree-concept-illustration_114360-4898.jpg?w=826&t=st=1666643380~exp=1666643980~hmac=7262ec2d86097f3c734e392cd6d82bf67d50ec180be41219a18f317ed54ec6aa"
+  },
+  {
+    "_id": "16004",
+    "category_id": "06",
+    "name": "Uddokta",
+    "speed": {
+      "rawInternet": 60,
+      "bdix": 100,
+      "facebook": 100,
+      "youtube": 100
+    },
+    "description": "The maximum price of 5 Mbps broadband internet is set at Tk 500, 10 Mbps at Tk 700 to 800, and 20 Mbps at Tk 1100 to 1200. Beyond the city, broadband internet has now reached the union level as well as the villages. Broadband internet subscribers are currently around one crore in the country. The number of subscribers is 17 % of the total internet users in the country. But these customers use 58 % of the country’s total bandwidth.",
+    "price": 6900,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/flat-wifi-zone-concept-with-signal_23-2148186886.jpg?w=826&t=st=1666643398~exp=1666643998~hmac=d8f0924713a228324b426b2b2b2e6ab4cadc48b04a6fddc476c9d942770011b5"
+  },
+  {
+    "_id": "16005",
+    "category_id": "06",
+    "name": "Tufaan",
+    "speed": {
+      "rawInternet": 70,
+      "bdix": 500,
+      "facebook": 500,
+      "youtube": 500
+    },
+    "description": "The maximum price of 5 Mbps broadband internet is set at Tk 500, 10 Mbps at Tk 700 to 800, and 20 Mbps at Tk 1100 to 1200. Beyond the city, broadband internet has now reached the union level as well as the villages. Broadband internet subscribers are currently around one crore in the country. The number of subscribers is 17 % of the total internet users in the country. But these customers use 58 % of the country’s total bandwidth.",
+    "price": 7200,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/internet-go-concept-illustration_114360-184.jpg?w=826&t=st=1666643425~exp=1666644025~hmac=4ddb1f030f873be685bee6858f8b1e6415fbb06857094ea1fc3e7095fb065533"
+  },
+  {
+    "_id": "16006",
+    "category_id": "06",
+    "name": "Bondhon",
+    "speed": {
+      "rawInternet": 100,
+      "bdix": 1000,
+      "facebook": 1000,
+      "youtube": 1000
+    },
+    "description": "The maximum price of 5 Mbps broadband internet is set at Tk 500, 10 Mbps at Tk 700 to 800, and 20 Mbps at Tk 1100 to 1200. Beyond the city, broadband internet has now reached the union level as well as the villages. Broadband internet subscribers are currently around one crore in the country. The number of subscribers is 17 % of the total internet users in the country. But these customers use 58 % of the country’s total bandwidth.",
+    "price": 7200,
+    "realip": "YES",
+    "connection": "cat5e",
+    "img": "https://img.freepik.com/free-vector/flat-people-with-wifi-sign-background_23-2148198289.jpg?w=826&t=st=1666643449~exp=1666644049~hmac=ffb04ebce75f8cb61cf528dd0a270ae97a03b8066de88b26f1fbc10cd048fa4d"
+  }
+]
