@@ -31,6 +31,13 @@ app.get("/packs", (req, res) => {
   res.send(prices);
 });
 
+//this gives only one news based on id
+app.get("/packs/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedPack = prices.find((n) => n._id === id);
+  res.send(selectedPack);
+});
+
 app.listen(port, () => {
   console.log("Bdix VPN server running on port", port);
 });
