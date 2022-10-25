@@ -26,6 +26,11 @@ app.get("/category/:id", (req, res) => {
   res.send(categroy_packs);
 });
 
+//this gives all the packs of every sections together
+app.get("/packs", (req, res) => {
+  res.send(prices);
+});
+
 app.listen(port, () => {
   console.log("Bdix VPN server running on port", port);
 });
