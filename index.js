@@ -18,6 +18,14 @@ app.get("/vpn-categories", (req, res) => {
   res.send(categories);
 });
 
+//this gives many newses based on categories
+app.get("/category/:id", (req, res) => {
+  const id = req.params.id;
+
+  const categroy_packs = prices.filter((n) => n.category_id === id);
+  res.send(categroy_packs);
+});
+
 app.listen(port, () => {
   console.log("Bdix VPN server running on port", port);
 });
