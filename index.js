@@ -13,6 +13,11 @@ app.get("/", (req, res) => {
   res.send("BDIX VPS and VPN API running");
 });
 
+//this gives the list of catagory
+app.get("/vpn-categories", (req, res) => {
+  res.send(categories);
+});
+
 app.listen(port, () => {
   console.log("Bdix VPN server running on port", port);
 });
